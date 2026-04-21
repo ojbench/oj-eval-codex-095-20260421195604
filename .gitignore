@@ -1,0 +1,6 @@
+.env
+.acmoj_token
+a.out
+core
+core.*
+*.core
